@@ -18,6 +18,5 @@ Organizations operate in dynamic environments that are constantly changing, such
 - Elasticsearch
 - Kibana
 - Docker
-
 - OS: Centos7
 - IDE: Jupyter Lab, PyCharm
