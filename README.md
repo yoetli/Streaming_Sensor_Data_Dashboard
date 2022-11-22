@@ -3,7 +3,7 @@
 Organizations operate in dynamic environments that are constantly changing, such as industry fluctuations, changes in sales figures, or the impact of certain market news. This flow generates operational challenges that must continuously be monitored. In this context, this repo aims to demonstrate a real-time dashboard application over a dataset containing the data of the Smart Building System.
 
 
-## Overview
+## Process Flow
 - Get a compressed data source from a URL
 - Processing the raw data with PySpark and saving the prepared dataset to local disk.
 - Use the data-generator to simulate streamed batch data and send the data to Apache Kafka.
