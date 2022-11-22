@@ -2,7 +2,7 @@
 ## Intro
 Organizations operate in dynamic environments that are constantly changing, such as industry fluctuations, changes in sales figures, or the impact of certain market news. This flow generates operational challenges that must continuously be monitored. 
 
-This repo aims to demonstrate real-time dashboard application of Smart Building System, benefiting from a dataset collected from sensors instrumented in an office building.
+In this context, this repo aims to demonstrate a real-time dashboard application over a dataset containing the data of the Smart Building System.
 
 
 ## Overview
