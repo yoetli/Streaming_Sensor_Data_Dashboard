@@ -45,6 +45,9 @@ This repo has been forked from erkansirin78. Many thanks to him since this scrip
 
 We can directly run the data-generator script by running data_generator.sh. We should use the location of data-generator.
 
+  wget -O /<your_local_directory>/sensors.zip https://github.com/dogukannulu/datasets/raw/master/sensors_instrumented_in_an_office_building_dataset.zip
+
+
 Streaming data example:
 
 ![image](https://user-images.githubusercontent.com/96085537/203422850-61d1dca7-6332-46ea-94fc-16f98f8e9dd9.png)
