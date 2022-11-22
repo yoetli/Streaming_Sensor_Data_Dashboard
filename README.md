@@ -38,3 +38,13 @@ The unzipped file KETI contains sub folders labeled with room numbers of the bui
 - temperature.csv
 - pir.csv (Passive Infrared Sensor)
 
+## Running data-generator:
+Instructions on how to install data-generator can be found here
+
+This repo has been forked from erkansirin78. Many thanks to him since this script successfully simulates a streaming data.
+
+We can directly run the data-generator script by running data_generator.sh. We should use the location of data-generator.
+
+Streaming data example:
+
+
