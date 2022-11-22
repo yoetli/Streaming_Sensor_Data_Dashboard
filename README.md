@@ -1,8 +1,9 @@
 # Streaming_Sensor_Data_Dashboard
 ## Intro
-Organizations operate in dynamic environments that are constantly changing, such as industry fluctuations, changes in sales figures, or the impact of certain market news. This flow generates operational challenges that must continuously be monitored. For example, supply chain and logistics bottlenecks, excessive product orders, or long waiting times in call centers can mean lost profits.
+Organizations operate in dynamic environments that are constantly changing, such as industry fluctuations, changes in sales figures, or the impact of certain market news. This flow generates operational challenges that must continuously be monitored. 
 
-This repo aims to demonstrate real-time dashboard application.
+This repo aims to demonstrate real-time dashboard application. This dataset is collected from 255 sensor time series, instrumented in 51 rooms in 4 floors of the Sutardja Dai Hall(SDH) at UC Berkeley. 
+
 
 ## Overview
 - Get a compressed data source from a URL
