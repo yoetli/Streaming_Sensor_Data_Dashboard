@@ -26,7 +26,7 @@ Organizations operate in dynamic environments that are constantly changing, such
 ## Downloading Data and Unzip
 
 The file is downloaded via wget command.
-!wget -O ~/datasets/sensor/sensor_df.zip https://github.com/erkansirin78/datasets/raw/master/sensors_instrumented_in_an_office_building_dataset.zip
+'!wget -O ~/datasets/sensor/sensor_df.zip https://github.com/erkansirin78/datasets/raw/master/sensors_instrumented_in_an_office_building_dataset.zip'
 
 !unzip sensor_df.zip
 
@@ -45,7 +45,6 @@ This repo has been forked from erkansirin78. Many thanks to him since this scrip
 
 We can directly run the data-generator script by running data_generator.sh. We should use the location of data-generator.
 
-  wget -O /<your_local_directory>/sensors.zip https://github.com/dogukannulu/datasets/raw/master/sensors_instrumented_in_an_office_building_dataset.zip
 
 
 Streaming data example:
