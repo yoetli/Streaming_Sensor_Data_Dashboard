@@ -9,6 +9,7 @@ Organizations operate in dynamic environments that are constantly changing, such
 - Use the data-generator to simulate streamed batch data and send the data to Apache Kafka.
 - Read the streaming data from Kafka topic using PySpark (Spark Structured Streaming).
 - Write the streaming data to Elasticsearch, and visualize it using Kibana.
+
 ![image](https://user-images.githubusercontent.com/96085537/203294356-f2036eaa-2af3-4d2f-a4e7-854b8ac44bab.png)
 
 ## Used Technologies and Services
