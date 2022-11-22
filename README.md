@@ -10,6 +10,9 @@ Organizations operate in dynamic environments that are constantly changing, such
 - Read the streaming data from Kafka topic using PySpark (Spark Structured Streaming).
 - Write the streaming data to Elasticsearch, and visualize it using Kibana.
 
+![image](https://user-images.githubusercontent.com/96085537/203293393-14d2c188-101a-49ac-92ed-604bcdd896bb.png)
+
+
 ## Used Technologies and Services
 - Apache Spark (PySpark)
 - Data Generator
