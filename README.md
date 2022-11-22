@@ -2,7 +2,7 @@
 ## Intro
 Organizations operate in dynamic environments that are constantly changing, such as industry fluctuations, changes in sales figures, or the impact of certain market news. This flow generates operational challenges that must continuously be monitored. 
 
-This repo aims to demonstrate real-time dashboard application. This dataset is collected from 255 sensor time series, instrumented in 51 rooms in 4 floors of the Sutardja Dai Hall(SDH) at UC Berkeley. 
+This repo aims to demonstrate real-time dashboard application of Smart Building System, a dataset collected from sensors instrumented in an office building.
 
 
 ## Overview
