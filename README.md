@@ -1,5 +1,7 @@
 # Streaming_Sensor_Data_Dashboard
 ## Intro
+Organizations operate in dynamic environments that are constantly changing, such as industry fluctuations, changes in sales figures, or the impact of certain market news. This flow generates operational challenges that must continuously be monitored. For example, supply chain and logistics bottlenecks, excessive product orders, or long waiting times in call centers can mean lost profits.
+
 This repo aims to demonstrate real-time dashboard application.
 
 ## Overview
