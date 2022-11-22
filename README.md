@@ -30,7 +30,7 @@ The file is downloaded via wget command.
 
 !unzip sensor_df.zip
 
-The  unzipped file contains a folder named KETI and a README.txt file. Each folder inside the KETI represents a room number. Each room contains five csv files, and each file shows logged data of five different sensors. Each csv also includes timestamp column. These properties are:
+The unzipped file KETI contains sub folders labeled with room numbers of the building and a README.txt file. Each room contains five csv files, and each file shows logged data of five different sensors. Csv files also include timestamp column. 
 
 - co2.csv
 - humidity.csv
