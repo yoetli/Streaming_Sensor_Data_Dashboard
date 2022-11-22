@@ -1,7 +1,16 @@
 # Streaming_Sensor_Data_Dashboard
 ## Intro
-This repo aims to demonstrate real-time dashboard application by following following steps:
+This repo aims to demonstrate real-time dashboard application.
+
+## Overview
+- Get a compressed data source from a URL
+- Process the raw data with PySpark, write the prepared dataset to local disk.
+- Use the data-generator to simulate streamed batch data, and send the data to Apache Kafka.
+- Read the streaming data from Kafka topic using PySpark (Spark Streaming).
+- Write the streaming data to Elasticsearch, and visualize it using Kibana.
+
 Dataset Preparation by PySpark, Streaming Data Generation, Reading from Kafka, PySpark Modifications, Writing to Elastic Search, Visualization of Kibana Graphs
+
 ## Used Technologies and Services
 - Apache Spark (PySpark)
 - Data Generator
@@ -13,11 +22,6 @@ Dataset Preparation by PySpark, Streaming Data Generation, Reading from Kafka, P
 -----------
 - OS: Centos7
 - IDE: Jupyter Lab, PyCharm
-## Overview
-- Get a compressed data source from a URL
-- Process the raw data with PySpark, write the prepared dataset to local disk.
-- Use the data-generator to simulate streamed batch data, and send the data to Apache Kafka.
-- Read the streaming data from Kafka topic using PySpark (Spark Streaming).
-- Write the streaming data to Elasticsearch, and visualize it using Kibana.
+
 
 Dataset Preparation by PySpark, Streaming Data Generation, Reading from Kafka, PySpark Modifications, Writing to Elastic Search, Visualization of Kibana Graphs
