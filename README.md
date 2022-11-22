@@ -22,3 +22,9 @@ Organizations operate in dynamic environments that are constantly changing, such
 - Docker
 - OS: Centos7
 - IDE: Jupyter Lab, PyCharm
+
+## Downloading Data
+
+The file is downloaded via wget command.
+!wget -O ~/datasets/sensor/sensor_df.zip \
+https://github.com/erkansirin78/datasets/raw/master/sensors_instrumented_in_an_office_building_dataset.zip
