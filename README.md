@@ -9,7 +9,7 @@ This repo aims to demonstrate real-time dashboard application of Smart Building 
 - Get a compressed data source from a URL
 - Process the raw data with PySpark, write the prepared dataset to local disk.
 - Use the data-generator to simulate streamed batch data, and send the data to Apache Kafka.
-- Read the streaming data from Kafka topic using PySpark (Spark Streaming).
+- Read the streaming data from Kafka topic using PySpark (Spark Structured Streaming).
 - Write the streaming data to Elasticsearch, and visualize it using Kibana.
 
 Dataset Preparation by PySpark, Streaming Data Generation, Reading from Kafka, PySpark Modifications, Writing to Elastic Search, Visualization of Kibana Graphs
