@@ -28,7 +28,7 @@ Organizations operate in dynamic environments that are constantly changing, such
 The file is downloaded via wget command.
 '!wget -O ~/datasets/sensor/sensor_df.zip https://github.com/erkansirin78/datasets/raw/master/sensors_instrumented_in_an_office_building_dataset.zip'
 
-!unzip sensor_df.zip
+'''!unzip sensor_df.zip'''
 
 The unzipped file KETI contains sub folders labeled with room numbers of the building and a README.txt file. Each room contains five csv files, and each file shows logged data of five different sensors. Csv files also include timestamp column. 
 
