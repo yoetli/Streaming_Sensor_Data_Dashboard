@@ -47,4 +47,5 @@ We can directly run the data-generator script by running data_generator.sh. We s
 
 Streaming data example:
 
+![image](https://user-images.githubusercontent.com/96085537/203422850-61d1dca7-6332-46ea-94fc-16f98f8e9dd9.png)
 
