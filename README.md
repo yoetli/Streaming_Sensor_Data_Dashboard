@@ -11,5 +11,5 @@ Dataset Preparation by PySpark, Streaming Data Generation, Reading from Kafka, P
 - Kibana
 - Docker
 -----------
-OS:Centos7
-IDE: Jupyter Lab, PyCharm
+- OS:Centos7
+- IDE: Jupyter Lab, PyCharm
