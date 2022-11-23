@@ -7,7 +7,8 @@ Organizations operate in dynamic environments that are constantly changing, such
 - Processing the raw data with PySpark and saving the prepared dataset to local disk.
 - Use the data-generator to simulate streamed batch data and send the data to Apache Kafka.
 - Read the streaming data from Kafka topic using PySpark (Spark Structured Streaming).
-- Write the streaming data to Elasticsearch, and visualize it using Kibana.
+- Write the streaming data to Elasticsearch using PySpark (Spark Structured Streaming).
+- Observation of the index & docs in Elasticsearch and creation of Kibana Dashboard.
 
 ![](C:\Users\oner\Desktop\final_pro_pic.png)
 
