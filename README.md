@@ -10,7 +10,7 @@ Organizations operate in dynamic environments that are constantly changing, such
 - Write the streaming data to Elasticsearch using PySpark (Spark Structured Streaming).
 - Observation of the index & docs in Elasticsearch and creation of Kibana Dashboard.
 
-![](C:\Users\oner\Desktop\final_pro_pic.png)
+
 
 ## Used Tools
 
