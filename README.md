@@ -151,7 +151,7 @@ Index names and number of docs can be obtained by running the following command:
 GET /_cat/indices?v
 ```
 
-Following graphs have been created using the docs in the Elasticsearch index.
+Following graphs have been created in the Kibana using the docs in the Elasticsearch index.
 
 ![](https://github.com/yoetli/Streaming_Sensor_Data_Dashboard/blob/main/images/Kibana_graphs_1.jpg)
 ![](https://github.com/yoetli/Streaming_Sensor_Data_Dashboard/blob/main/images/Kibana_graphs_2.jpg)
