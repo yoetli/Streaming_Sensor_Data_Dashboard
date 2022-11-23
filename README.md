@@ -14,7 +14,7 @@ dataset containing the data of the Smart Building System.
 - Writing the streaming data from Kafka to Elasticsearch by PySpark.
 - Observation of the index & docs in Elasticsearch and creation of Kibana Dashboard.
 
-![](C:\Users\oner\Desktop\final_pro_pic2.jpg)
+![](https://github.com/yoetli/Streaming_Sensor_Data_Dashboard/blob/main/images/final_pro_pic.png)
 
 ## Used Tools
 
@@ -153,5 +153,5 @@ GET /_cat/indices?v
 
 Following graphs have been created using the docs in the Elasticsearch index.
 
-![](C:\Users\oner\Desktop\Kibana_graphs_1.jpg)
-![](C:\Users\oner\Desktop\Kibana_graphs_2.jpg)
+![](https://github.com/yoetli/Streaming_Sensor_Data_Dashboard/blob/main/images/Kibana_graphs_1.jpg)
+![](https://github.com/yoetli/Streaming_Sensor_Data_Dashboard/blob/main/images/Kibana_graphs_2.jpg)
