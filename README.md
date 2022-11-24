@@ -110,7 +110,7 @@ Benefiting from the data-generator, the static dataset will be turned into strea
 Instructions on how to install data-generator can be found [here](https://github.com/erkansirin78/data-generator).
 
 ```python
-python dataframe_to_kafka.py -ks , -rst 0.1 -t sensors-topic -i /home/train/datasets/sensor_raw_dataset/datagen_input
+python dataframe_to_kafka.py -ks , -rst 0.1 -t office-input -i /home/train/datasets/sensor_raw_dataset/datagen_input
 ```
 
 ##  Reading the streaming data from Kafka topic by PySpark
