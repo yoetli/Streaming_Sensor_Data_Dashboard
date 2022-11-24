@@ -57,7 +57,7 @@ cd /<location_of_docker_compose.yaml>/ && docker-compose up -d
 ``` 
 ## Processing of the raw data with PySpark
 
-Please refer to ``` Read_Write_Static_Data.ipynb``` for pre-processing of log data.
+Please refer to ``` Read_Write_Static_Data.ipynb``` for pre-processing of logged data.
 Some of the code used to modify the initial data shown below. 
 
 ```python
