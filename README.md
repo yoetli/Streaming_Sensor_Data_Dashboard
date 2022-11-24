@@ -128,7 +128,7 @@ df = spark \
   .load()
 ```
 ##  Writing the streaming data from Kafka to Elasticsearch by PySpark.
-Please refer to ``` Write_to_ES.py``` for details of how to read the streaming data.
+Please refer to ``` Write_to_ES.py``` for details of how to write the streaming data to the index of Elasticsearch.
 Some of the code used to read the streaming data shown below. 
 
 ```python
