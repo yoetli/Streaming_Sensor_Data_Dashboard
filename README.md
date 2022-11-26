@@ -18,7 +18,7 @@ dataset containing the data of the Smart Building System.
 
 ## Used Tools
 
-- Apache Spark (PySpark)
+- Apache Spark (3.1.1)
 - Data Generator
 - Apache Kafka
 - Apache Zookeeper
